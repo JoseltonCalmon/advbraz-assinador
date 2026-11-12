@@ -48,4 +48,5 @@ direto ao provedor.
 
 ## Versões
 
-- **1.1.0** — primeira versão instalável.
+- **1.2.0**: atende também o site do Protocolar IA (protocolar.ia.br).
+- **1.1.0**: primeira versão instalável.
